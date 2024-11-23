@@ -1,1 +1,1 @@
-centralx/clash --platform=linux/arm/v7
+dreamacro/clash --platform=linux/arm/v7
